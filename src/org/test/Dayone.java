@@ -13,7 +13,9 @@ public static void main(String[] args) {
 	System.out.println(title);
 	String currentUrl = dr.getCurrentUrl();
 	System.out.println(currentUrl);
-	System.out.println("name is Raj");
+	System.out.println("Kumar");
+	System.out.println("name is Raj");	
+    System.out.println("Kumar");
 	dr.close();
 	
 	}
